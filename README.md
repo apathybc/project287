@@ -33,9 +33,13 @@ Summary On How to Use the Design:
 |  7  |   8   |  9 |
 --------------------
 3. Choose what AI difficulty you would like to play against by selecting the corresponding button (KEY2 = hard, KEY1 = medium, KEY0 = easy) or do not press any button to keep it in the player versus. player mode. 
+
 4. PLAYER VS PLAYER : Player 1 (X's) always will have the first move, so they must give input for a position on the board by flipping one of the first nine switches(SW17-SW9), once flipping one of these switches your X will be displayed in the corresponding position on the tic-tac-toe board. However, before Player 2 is allowed to make a move, Player 1 must turn whatever switch they selected back to low. Once Player 1 flips their selected switch back to low, PLayer 2 (O's) can then make their move by flipping one of the second nine switches (SW8-SW0) to display the O in the corresponding position. Similar to Player 1 being required to flip their selected switch back to low in order for Player 2 to being able to make a move, Player 2 must do the same. Repeat this until a winner is detected
+
 5. PLAYER VS AI : Player 1 (X's) again will always have the first move, similarly as described in the PLAYER VS PLAYER mode, Player 1 is allowed to choose one of the first nine switches to map their X on the tic-tac-toe board. Again, as stated in the PLAYER VS PLAYER state before selecting which AI to face, you must turn whichever switch you turned high back to low. After turning this switch to low, you can select which mode you would like to play against either hard, medium, or easy. Once selecting whatever AI you would like to play against, it will place an O in whatever position it deems necessary on the board. You then return to Player 1's turn and select and position whatever postion you would like to play your X in. Again turn the selected switch low again in order to move to the AI's turn. Press the corresponding AI difficulty button in order for the AI to place its next O. Repeat this process until a winner is detected.
+
 6. Once a winner is detected, you will no longer be able to place X's or O's on the board. If you would like to play again press the reset button (KEY=3) and as described in step 3 choose decide whatever mode you would like to play. In addition, if you would ever like to restart in the middle of a game, you can also press the reset button. The winning combinations are as followed ([1,2,3] ; [4,5,6] ; [7,8,9] ; [1,5,9] ; [3,5,7] ; [1,4,7] ; [2,5,8] ; [3,6,9]).
+
 7. We hope you enjoyed playing our game !
 
 
