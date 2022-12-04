@@ -17,9 +17,16 @@ The idea of tic-tac-toe is very popular and we are sure that everyone knows the 
 
 Modular Design: 
 
-This project was implemented using 5 Verilog (.v) files:
+This project was implemented using 4 Verilog (.v) files:
 
 projectvga.v: This is our top level entity, it holds all of the major code for our project. It instantiates our vgadadapter module for getting input and displaying it to the screen. It also contains our code inside a FSM for our tic-tac-toe board, shapes, and the logic behind our entire game including the different modes, how to detect turns, and when to detect a winner. 
+
+vga_adapter.v: The adapter uses VGA mode signalling to initiate the 640x480 resolution mode on a computer monitor, with a refresh rate of approximately 60Hz. It is designed for easy use in an early digital logic design course to facilitate student projects on the Altera DE2 Educational board. This implementation of the VGA adapter can display images of varying colour depth at a resolution of 320x240 or 160x120 superpixels. (Taken from the description listed on the vga_adapter.v file)
+
+vga_address_translator.v: This module converts a user specified coordinates into a memory address. (Taken from descrption on vga_address_translator.v file)
+
+vga_controller.v: This module implements the VGA controller. It assumes a 25MHz clock is supplied as input. (Taken from descrption on vga_controller.v file)
+
 
 Summary On How to Use the Design:
 
@@ -52,7 +59,7 @@ Here are videos on how to play the different modes of our game :
 (Easy AI: )
 
 Citations:
-1. We recieved our projectVGA.qsf file, which included the (insert file names here) from Lukas Tackett who recieved it from Chris Lallo.
+1. We recieved our projectVGA.qsf file, which included the vga_address_translation.v file, vga_controller.v file , and vga_adapter.v file from Lukas Tackett who recieved it from Chris Lallo.
 2. We would like to give a special thanks to Lukas Tackett, who was very helpful to us during our journey in creating this project. He offered guidance and helped us troubleshoot some problems we encountered along the way.
 
 
