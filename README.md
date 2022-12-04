@@ -27,7 +27,7 @@ Summary On How to Use the Design:
 
 2. The way our positions are set up is like this :
 --------------------
-|  1  |   2   |  3 |
+|   1  |   2   |  3 |
 --------------------
 |  4  |   5   |  6 |
 --------------------
