@@ -8,7 +8,7 @@ Topic: Tic-Tac-Toe with a 2 Player mode & versus AI (3 modes: easy,medium,hard)
 
 Description Of Topic: 
 
-The purpose of this project is to use the FPGA board to project a playable tic-tac-toe game onto a screen using the VGA. The user can play versus another by them both flipping switches on the FPGA board to declare a move. ALso, the user can play against an AI bot of hard, medium, or easy difficulty by pressing one of the buttons.
+The purpose of this project is to use the FPGA board to project a playable tic-tac-toe game onto a screen using the VGA. The user can play versus another by them both flipping switches on the FPGA board to declare a move. Also, the user can play against an AI bot of hard, medium, or easy difficulty by pressing one of the buttons.
 
 
 Background Information:
