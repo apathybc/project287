@@ -24,6 +24,7 @@ projectvga.v: This is our top level entity, it holds all of the major code for o
 Summary On How to Use the Design:
 
 1. Compile the design and upload it to the FPGA. To better understand our design (SW17(X) & SW8(O) correspong to Position 1,etc)
+
 2. The way our positions are set up is like this :
 --------------------
 |  1  |   2   |  3 |
