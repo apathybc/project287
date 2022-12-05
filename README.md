@@ -54,8 +54,11 @@ Summary On How to Use the Design:
 
 Here are videos on how to play the different modes of our game :
 (2 Player: https://youtu.be/4LfcjoJQ-00 )
-(Hard AI: https://youtu.be/Pt1i4c22zTU )
+
+(Hard AI: https://youtu.be/Pt1i4c22zTU 
+
 (Medium AI: https://youtu.be/3_KhAD7o368 )
+
 (Easy AI: https://youtu.be/S0cZG0-d7io )
 
 Citations:
