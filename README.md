@@ -53,13 +53,13 @@ Summary On How to Use the Design:
 
 
 Here are videos on how to play the different modes of our game :
-(2 Player: )
-(Hard AI: )
-(Medium AI: )
-(Easy AI: )
+(2 Player: https://youtu.be/4LfcjoJQ-00 )
+(Hard AI: https://youtu.be/Pt1i4c22zTU )
+(Medium AI: https://youtu.be/3_KhAD7o368 )
+(Easy AI: https://youtu.be/S0cZG0-d7io )
 
 Citations:
-1. We recieved our projectVGA.qsf file, which included the vga_address_translation.v file, vga_controller.v file , and vga_adapter.v file from Lukas Tackett who recieved it from Chris Lallo.
+1. We recieved our projectvga.qpf file, which included the vga_address_translation.v file, the projectvga.v file, and the vga_controller.v file from Lukas Tackett who recieved it from Chris Lallo.
 2. We would like to give a special thanks to Lukas Tackett, who was very helpful to us during our journey in creating this project. He offered guidance and helped us troubleshoot some problems we encountered along the way.
 
 
